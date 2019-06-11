@@ -1,0 +1,3 @@
+The issue in this example was the "equal" function will expected a Object as parameter and it was receiving a Employee instance
+
+Once we change the parameter type to Object and we make the cast, the comparative instruction works well

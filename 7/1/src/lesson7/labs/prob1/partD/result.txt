@@ -1,0 +1,3 @@
+In this example, the use of Override function "equals" and "hashCode",
+is taken into account the property "visited" and it was changed when removeDuplicates
+verified that employee already exists on tracker hashMap

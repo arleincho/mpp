@@ -1,0 +1,5 @@
+In this example, the problem is the hashCode function, the removeDuplicates function uses the HashMap that
+is a type of Collection, it is used to control the Employees existents on the list.
+
+Overwriting the hashCode function on Employee class, we have the correct value to validate id an employee
+exists or no in accordance with their parameters
